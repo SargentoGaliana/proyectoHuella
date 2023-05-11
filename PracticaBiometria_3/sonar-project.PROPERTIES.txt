@@ -1,0 +1,8 @@
+sonar.projectKey=Alfalfa_2013
+#símbolo para comentar
+#sonar.projectName=proyectoHuella
+#sonar.projectVersion=1.0
+#sonar.sources=src
+#sonar.java.binaries=main,FingerPrintImage
+#sonar.sourceEncoding=UTF-8
+#sonar.token=sqp_102c3fcb134c4a01a53144759e7b50272e29ae82 

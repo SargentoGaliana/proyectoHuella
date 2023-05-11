@@ -1,0 +1,1 @@
+sonar-scanner.bat -D"sonar.projectKey=proyectoHuella" -D"sonar.sources=." -D"sonar.host.url=http://localhost:9000" -D"sonar.token=sqp_6d96bd95c02690e8abf0629aa7054b7c8094a2b6"
